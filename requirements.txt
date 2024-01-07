@@ -1,3 +1,5 @@
 redash-python
 Flask
 dotenv
+pandas
+openai
