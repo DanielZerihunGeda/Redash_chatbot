@@ -2,6 +2,7 @@
 
 # Ignore the youtube_data
 youtube_data/
+youtube-data/
 *.csv
 # Ignore Python virtual environment
 venv/
@@ -55,3 +56,4 @@ coverage.xml
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
